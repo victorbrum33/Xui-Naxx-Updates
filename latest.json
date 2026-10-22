@@ -2,11 +2,11 @@
   "schema": 1,
   "name": "Xui Naxx Frontend",
   "version": "1.5.14",
-  "published_at": "2026-10-22T10:08:27Z",
+  "published_at": "2026-10-22T14:33:21Z",
   "archive": {
-    "sha256": "c7def3635cc28c0fa8b2370ef3fcebc9eab2508a00d7214b90b237551bd4e730",
-    "size": 114547,
-    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/9b690b431c90a46ada53c079dd0418ea7b7d9ad0/naxx-frontend.zip"
+    "sha256": "b3a77272107d31dc095f1164fe9ce2b3e7da66c10585fc97bce9ad41c4c50af3",
+    "size": 114567,
+    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/05689abcea53da519017c00a7910b90978c0986d/naxx-frontend.zip"
   },
   "files": [
     {
@@ -61,8 +61,8 @@
     },
     {
       "path": "admin/assets/js/naxx-overlay.js",
-      "sha256": "31e76310a30b54d94a7ab1e39cd523a5fd0e93d6c50219bc6923603bd2689d47",
-      "size": 138956
+      "sha256": "33889318cc679b97907d2f024c71377450e203139376da352ea4e7f254671618",
+      "size": 138986
     },
     {
       "path": "admin/assets/js/naxx-update-ui.js",
