@@ -2,11 +2,11 @@
   "schema": 1,
   "name": "Xui Naxx Frontend",
   "version": "1.5.14",
-  "published_at": "2026-10-22T08:14:55Z",
+  "published_at": "2026-10-22T09:02:41Z",
   "archive": {
-    "sha256": "a468dc8939536e58e0f670c817d9b9e77812e3f9a9482dde3cfdd463d86e6605",
-    "size": 98286,
-    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/db13f8c3c0463024ce905ea4a685b331f9f670b5/naxx-frontend.zip"
+    "sha256": "0aa6926184d778a1f646a28bd1d702b766576bfa9108bab6fd41775db06cba8a",
+    "size": 109562,
+    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/5f3c984266580badd5f4e3e265272b8614f24bdd/naxx-frontend.zip"
   },
   "files": [
     {
@@ -16,13 +16,13 @@
     },
     {
       "path": "admin/assets/css/naxx-overlay.css",
-      "sha256": "e320260bacc672feced5c5b9b1acf9d4df64331be60cabd429ea5f4648504a3e",
-      "size": 28508
+      "sha256": "b55272b4c7ca5d6a9cd45ac3efb6ec83f4e349e954c401b58a2eee51037f60db",
+      "size": 33272
     },
     {
       "path": "admin/assets/css/naxx-overlay.light.css",
-      "sha256": "2f783295652fc8f89a1ea5c06274e886a6bb68e8b6e5f2efab321bd1526d6177",
-      "size": 32499
+      "sha256": "da57da352372c325897cdc128dbc5d374f5634fc9ecd2a52a7ebeb515ebc280b",
+      "size": 37263
     },
     {
       "path": "admin/assets/css/naxx-update.css",
@@ -61,8 +61,8 @@
     },
     {
       "path": "admin/assets/js/naxx-overlay.js",
-      "sha256": "84b4864e6af3488a31b1aed3cf3231b0646a841e757ea68c8327b5ffe61ccb53",
-      "size": 106319
+      "sha256": "0fa03a8b48ac230cd3a9b803a17389b86e92a3e2a7b2de783b221cd9bc787559",
+      "size": 128966
     },
     {
       "path": "admin/assets/js/naxx-update-ui.js",
@@ -96,8 +96,8 @@
     },
     {
       "path": "admin/naxx-update.php",
-      "sha256": "e7ad09de39452bb635b01b379f6179d9254f2b83e223b7b60a87648a18c36abc",
-      "size": 6956
+      "sha256": "a130355b0adade176f4c9999863ee4cc4daeee5a5a86e27e66547f5021588cb2",
+      "size": 12254
     },
     {
       "path": "includes/langs/pt_br.ini",
