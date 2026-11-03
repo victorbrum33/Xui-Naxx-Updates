@@ -17,3 +17,8 @@ No painel com o atualizador já instalado, abra **Atualizações** para verifica
 
 Os arquivos de terceiros mantêm seus termos e direitos. A edição NAXX 1.5.14 identifica as melhorias da interface e usa a base compatível XUI 1.5.12.
 
+## Inicialização dos canais — 03/11/2026
+
+A prévia corrige a origem autenticada sem aguardar a primeira falha e elimina uma consulta duplicada ao manifesto.
+
+O perfil opcional de segmentos de 2 segundos está no [repositório principal](https://github.com/victorbrum33/Xui-Naxx/blob/main/scripts/otimizar_ondemand.py). Consulte [aplicação, medições e restauração](https://github.com/victorbrum33/Xui-Naxx/blob/main/OTIMIZACAO.md). Esse perfil do servidor é aplicado separadamente da atualização visual.
