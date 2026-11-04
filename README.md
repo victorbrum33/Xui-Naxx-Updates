@@ -15,10 +15,10 @@ Este canal contém a atualização da interface. O núcleo XUI, as credenciais, 
 
 No painel com o atualizador já instalado, abra **Atualizações** para verificar a versão e acompanhar o resultado. A ativação inicial do serviço de atualização é feita localmente pelo administrador da instalação.
 
-Os arquivos de terceiros mantêm seus termos e direitos. A edição NAXX 1.5.14 identifica as melhorias da interface e usa a base compatível XUI 1.5.12.
+## Edição 1.5.14.1
 
-## Inicialização dos canais — 03/11/2026
+Inclui **NAXX Automático**, que analisa as fontes de um canal cadastrado e escolhe um modo de baixa latência compatível ao salvar. A ativação é por canal; atualizar o pacote preserva as configurações existentes. Consulte [uso e limites](https://github.com/victorbrum33/Xui-Naxx/blob/main/NAXX-AUTOMATICO.md).
 
-A prévia corrige a origem autenticada sem aguardar a primeira falha e elimina uma consulta duplicada ao manifesto.
+O manifesto mantém `version: "1.5.14"` para serviços legados e identifica a edição completa em `release_version: "1.5.14.1"`. Serviços novos reconhecem os quatro componentes; o hash permite que os antigos instalem o mesmo pacote.
 
-O perfil opcional de segmentos de 2 segundos está no [repositório principal](https://github.com/victorbrum33/Xui-Naxx/blob/main/scripts/otimizar_ondemand.py). Consulte [aplicação, medições e restauração](https://github.com/victorbrum33/Xui-Naxx/blob/main/OTIMIZACAO.md). Esse perfil do servidor é aplicado separadamente da atualização visual.
+Os arquivos de terceiros mantêm seus termos e direitos. A edição NAXX 1.5.14.1 identifica as melhorias da interface e usa a base compatível XUI 1.5.12.
