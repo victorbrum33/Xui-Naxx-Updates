@@ -2,11 +2,11 @@
   "schema": 1,
   "name": "Xui Naxx Frontend",
   "version": "1.5.14",
-  "published_at": "2026-11-03T22:33:20Z",
+  "published_at": "2026-11-04T01:06:24Z",
   "archive": {
-    "sha256": "37dcaaa5e44f0d947aab89880bc59de13c46b6a0cefc8a61b6ab0c359a1e8af2",
-    "size": 117181,
-    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/ac2a876ea4685b86e09b6e73a50863d03586ede3/naxx-frontend.zip"
+    "sha256": "87a497fdd475795203d8def01d6f113c2ac27c303dca52561f950bc3b9344174",
+    "size": 129632,
+    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/f953c4711515b8660fa697b26830dc1279858666/naxx-frontend.zip"
   },
   "files": [
     {
@@ -61,8 +61,8 @@
     },
     {
       "path": "admin/assets/js/naxx-overlay.js",
-      "sha256": "278b794672521152cda1a3df23e601a5df828842fbca62822f5923edc54427d8",
-      "size": 147089
+      "sha256": "c0cf42f86fa6849b5759d0bed3d7aaea0677f430e24338b2c2f1c46bd4b646f3",
+      "size": 170711
     },
     {
       "path": "admin/assets/js/naxx-update-ui.js",
@@ -96,8 +96,8 @@
     },
     {
       "path": "admin/naxx-update.php",
-      "sha256": "a130355b0adade176f4c9999863ee4cc4daeee5a5a86e27e66547f5021588cb2",
-      "size": 12254
+      "sha256": "80b8118c4bddfd23fba17001e3d96de4b9d0bd9cc0406dc5a65406620cbf4bea",
+      "size": 43385
     },
     {
       "path": "includes/langs/pt_br.ini",
