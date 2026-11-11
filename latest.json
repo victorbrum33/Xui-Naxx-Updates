@@ -3,11 +3,10 @@
   "name": "Xui Naxx Frontend",
   "version": "1.5.14",
   "release_version": "1.5.14.1",
-  "published_at": "2026-11-04T16:51:55Z",
   "archive": {
-    "sha256": "815cbb9c83220c08c1b8692005a98bd3358913ba0887d10f5c37a5af4476042d",
-    "size": 130599,
-    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/db3c6376be801f1e112a13bdf86390f08dde1655/naxx-frontend.zip"
+    "sha256": "01527791a6b7a4da0727eab10abc36900170c0153951ca3d97b41cb35ba02c5e",
+    "size": 136973,
+    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/bd38db5abbae8aaeebeeb8bc8df81d1f938c4e49/naxx-frontend.zip"
   },
   "files": [
     {
@@ -17,13 +16,13 @@
     },
     {
       "path": "admin/assets/css/naxx-overlay.css",
-      "sha256": "958f427ddcc30ebd7c5440143b45bdae6c6786d50931b410af616772a5778819",
-      "size": 36747
+      "sha256": "531a0b8f33e0405c87b7628ab1dc409435132670fbb90cc15098dd6a2cf5d440",
+      "size": 38025
     },
     {
       "path": "admin/assets/css/naxx-overlay.light.css",
-      "sha256": "f45a9cc196e3e18e134e2abca5a4cf74ce198c7e723ce99a97070f9fac8999a2",
-      "size": 40787
+      "sha256": "acb75444de2145d85eedd7a76c15c1480124cc866dc4696b73f958c3633251cc",
+      "size": 42042
     },
     {
       "path": "admin/assets/css/naxx-update.css",
@@ -57,18 +56,18 @@
     },
     {
       "path": "admin/assets/js/naxx-native-importer.js",
-      "sha256": "bbcaaf74e6ae79eee24046b9c4f629b0721aa1ef16d52c8f20a08a023e46de17",
-      "size": 14695
+      "sha256": "3db167f1768a1dc1a8a32a29aa24fe13e076ec88429c72253349916b748f4ef2",
+      "size": 14939
     },
     {
       "path": "admin/assets/js/naxx-overlay.js",
-      "sha256": "dfa7a62eecffc3eb44cb6562c295c54b2bbfa3eec200a24c36c53c9e040e9359",
-      "size": 169054
+      "sha256": "c6cccc7a88f965c00b968f820d8afa89430d17353527c65daa0198f5336b7a59",
+      "size": 186650
     },
     {
       "path": "admin/assets/js/naxx-update-ui.js",
-      "sha256": "aa04df7d41854dcd8a57fc35d13a8c0be0150aa93b55455ad4113ca7381a2029",
-      "size": 13991
+      "sha256": "29c400875bfa911273e23f5d642dbc03f17981aa86cd5473982ad4e1b99a3d00",
+      "size": 13996
     },
     {
       "path": "admin/naxx-epg-sync.php",
@@ -87,7 +86,7 @@
     },
     {
       "path": "admin/naxx-importador.php",
-      "sha256": "c8a27a56c3ce8ec81d8ff4470708ba53e33cf12ba64817ce5fada016dbda1ce6",
+      "sha256": "76008c1b7f8e85bef26e56bf110f2b0557af2dea2d6ed459602c43f31c2c0a07",
       "size": 568
     },
     {
@@ -97,13 +96,14 @@
     },
     {
       "path": "admin/naxx-update.php",
-      "sha256": "616550b51e70de2c53038dcf1a27dbd73626765e8056085e64c11111daebbfd6",
-      "size": 47960
+      "sha256": "c8c836dae9e6de319dd66b5e7baec605ee6d05dfea0b510101fef9a316cdbd72",
+      "size": 55651
     },
     {
       "path": "includes/langs/pt_br.ini",
       "sha256": "2f57a2ad49ab25837bf4b4c6e9e97ccc6680d3377932011c68225132d5cb698f",
       "size": 36457
     }
-  ]
+  ],
+  "published_at": "2026-11-11T00:24:21Z"
 }
