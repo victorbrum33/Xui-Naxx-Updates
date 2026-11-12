@@ -15,10 +15,10 @@ Este canal contém a atualização da interface. O núcleo XUI, as credenciais, 
 
 No painel com o atualizador já instalado, abra **Atualizações** para verificar a versão e acompanhar o resultado. A ativação inicial do serviço de atualização é feita localmente pelo administrador da instalação.
 
-## Edição 1.5.14.1
+## Edição 1.14.2
 
-Inclui **NAXX Automático**, que analisa as fontes de um canal cadastrado e escolhe um modo de baixa latência compatível ao salvar. A ativação é por canal; atualizar o pacote preserva as configurações existentes. Consulte [uso e limites](https://github.com/victorbrum33/Xui-Naxx/blob/main/NAXX-AUTOMATICO.md).
+Inclui nove paletas do menu superior, seleção de todo o catálogo nos buquês, organização simplificada de canais, filmes, séries e rádios e ajustes de português.
 
-O manifesto mantém `version: "1.5.14"` para serviços legados e identifica a edição completa em `release_version: "1.5.14.1"`. Serviços novos reconhecem os quatro componentes; o hash permite que os antigos instalem o mesmo pacote.
+O manifesto identifica esta edição com `version: "1.14.2"` e `release_version: "1.14.2"`. O ZIP contém exatamente 19 arquivos próprios, validados por tamanho e SHA-256. A base compatível continua sendo XUI 1.5.12.
 
-Os arquivos de terceiros mantêm seus termos e direitos. A edição NAXX 1.5.14.1 identifica as melhorias da interface e usa a base compatível XUI 1.5.12.
+Os arquivos de terceiros mantêm seus termos e direitos.

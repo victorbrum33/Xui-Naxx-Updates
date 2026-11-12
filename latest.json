@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "name": "Xui Naxx Frontend",
-  "version": "1.5.14",
-  "release_version": "1.5.14.1",
+  "version": "1.14.2",
+  "release_version": "1.14.2",
   "archive": {
-    "sha256": "8416045aa763733b8ad76d7c79f433a63e5aa69cde0f239691952d5c6fc6190e",
-    "size": 141465,
-    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/e9a4c83b689c4cebb5f53e605b0d9134678d2b4e/naxx-frontend.zip"
+    "sha256": "354fbd26dcbe70625a0272dea8ff2978aea74c7a3437013361b075dc6fa2922b",
+    "size": 156810,
+    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/8441f9a8c0d14510263bf31bdb6bb5f5d52f907f/naxx-frontend.zip"
   },
   "files": [
     {
@@ -16,13 +16,13 @@
     },
     {
       "path": "admin/assets/css/naxx-overlay.css",
-      "sha256": "940299a919e4cdaf8962a76e0c42fc220e6638ee985faade2aa01877b08feccf",
-      "size": 38369
+      "sha256": "620a71111e7c9ab5a645537ce9d02603f8f24742a28902fba9de8be201a26f32",
+      "size": 50936
     },
     {
       "path": "admin/assets/css/naxx-overlay.light.css",
-      "sha256": "2d55a2406ecaed3196cf591a94e058d770412d32f87df65ce3c05d9a999949d6",
-      "size": 42386
+      "sha256": "3dd325454e49e4d7008da39656d390e1352852e057895c969b8c9b66bf8bbafb",
+      "size": 54953
     },
     {
       "path": "admin/assets/css/naxx-update.css",
@@ -61,8 +61,8 @@
     },
     {
       "path": "admin/assets/js/naxx-overlay.js",
-      "sha256": "055a662aaf369daa2f62d465261b31820da3d5ae191abb60c162b0f92790cb7d",
-      "size": 203194
+      "sha256": "0135a6a1f82fbf76567469c8faf4af3c93515df4367ddc2f2c926ab08fe4d5ba",
+      "size": 248222
     },
     {
       "path": "admin/assets/js/naxx-update-ui.js",
@@ -96,8 +96,8 @@
     },
     {
       "path": "admin/naxx-update.php",
-      "sha256": "c8c836dae9e6de319dd66b5e7baec605ee6d05dfea0b510101fef9a316cdbd72",
-      "size": 55651
+      "sha256": "331366845ea9187341df1d2a16eedf4c231ba294c61d5752c0e0b8e78aa002ae",
+      "size": 55649
     },
     {
       "path": "includes/langs/pt_br.ini",
@@ -105,5 +105,5 @@
       "size": 36457
     }
   ],
-  "published_at": "2026-11-12T12:53:13Z"
+  "published_at": "2026-11-12T18:55:50Z"
 }
