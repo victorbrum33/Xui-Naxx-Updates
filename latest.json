@@ -4,9 +4,9 @@
   "version": "1.5.14",
   "release_version": "1.5.14.1",
   "archive": {
-    "sha256": "2ffcb51516f917e8007b84f8b60768d9b71644e5b7da4850d33a2a7600e8d5a1",
-    "size": 137629,
-    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/71458ed45742429bd1fb23664d3b1fad46f15961/naxx-frontend.zip"
+    "sha256": "8416045aa763733b8ad76d7c79f433a63e5aa69cde0f239691952d5c6fc6190e",
+    "size": 141465,
+    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/e9a4c83b689c4cebb5f53e605b0d9134678d2b4e/naxx-frontend.zip"
   },
   "files": [
     {
@@ -61,8 +61,8 @@
     },
     {
       "path": "admin/assets/js/naxx-overlay.js",
-      "sha256": "712522a22eafe76728e4f7e77ece0481a0034d354de564e0ddaf830621cffab1",
-      "size": 189195
+      "sha256": "055a662aaf369daa2f62d465261b31820da3d5ae191abb60c162b0f92790cb7d",
+      "size": 203194
     },
     {
       "path": "admin/assets/js/naxx-update-ui.js",
@@ -105,5 +105,5 @@
       "size": 36457
     }
   ],
-  "published_at": "2026-11-11T20:09:43Z"
+  "published_at": "2026-11-12T12:53:13Z"
 }
