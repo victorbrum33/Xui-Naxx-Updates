@@ -4,25 +4,25 @@
   "version": "1.14.2",
   "release_version": "1.14.2",
   "archive": {
-    "sha256": "354fbd26dcbe70625a0272dea8ff2978aea74c7a3437013361b075dc6fa2922b",
-    "size": 156810,
-    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/8441f9a8c0d14510263bf31bdb6bb5f5d52f907f/naxx-frontend.zip"
+    "sha256": "3b0a0c0865460d7bf3239dc324e93b4779fa1807f9ea4962644ddd03b0349f2a",
+    "size": 162101,
+    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/9f86b9795a2436025e96dca9ffaf313e6173b210/naxx-frontend.zip"
   },
   "files": [
     {
       "path": "admin/assets/css/naxx-importer.css",
-      "sha256": "366fdc41d69cdbec30e9ed1a98b4239db501b6be45f4be8d50e9e60f6cc8c8e8",
-      "size": 3895
+      "sha256": "424f99ea2c5a34f6a0c6c4e0a0a7d46ece20532d69ed260e821588be11203243",
+      "size": 6274
     },
     {
       "path": "admin/assets/css/naxx-overlay.css",
-      "sha256": "620a71111e7c9ab5a645537ce9d02603f8f24742a28902fba9de8be201a26f32",
-      "size": 50936
+      "sha256": "67eff9ea2676022f23468df50a01a25004600dcbdb438935c6d866e5ff7a754d",
+      "size": 52148
     },
     {
       "path": "admin/assets/css/naxx-overlay.light.css",
-      "sha256": "3dd325454e49e4d7008da39656d390e1352852e057895c969b8c9b66bf8bbafb",
-      "size": 54953
+      "sha256": "8aed5abc807aaa065c06c0a4d2f399d6d8f442a99f9314774edd2a135b810a2b",
+      "size": 56165
     },
     {
       "path": "admin/assets/css/naxx-update.css",
@@ -56,13 +56,13 @@
     },
     {
       "path": "admin/assets/js/naxx-native-importer.js",
-      "sha256": "3db167f1768a1dc1a8a32a29aa24fe13e076ec88429c72253349916b748f4ef2",
-      "size": 14939
+      "sha256": "adc02cd9443d3efd913237663377b5d6a9462641e7cc26ddd9e92c99fe7563d7",
+      "size": 22852
     },
     {
       "path": "admin/assets/js/naxx-overlay.js",
-      "sha256": "0135a6a1f82fbf76567469c8faf4af3c93515df4367ddc2f2c926ab08fe4d5ba",
-      "size": 248222
+      "sha256": "5d13c84296fb2e744addbd7b78712ae9b8bc8a5bfc49af1cfea449499036ca40",
+      "size": 259175
     },
     {
       "path": "admin/assets/js/naxx-update-ui.js",
@@ -86,7 +86,7 @@
     },
     {
       "path": "admin/naxx-importador.php",
-      "sha256": "76008c1b7f8e85bef26e56bf110f2b0557af2dea2d6ed459602c43f31c2c0a07",
+      "sha256": "85df4882cbbec2e93c17b087324f89d89ae0ed6cb4a2cf9181e64009b637ef9f",
       "size": 568
     },
     {
@@ -105,5 +105,5 @@
       "size": 36457
     }
   ],
-  "published_at": "2026-11-12T18:55:50Z"
+  "published_at": "2026-11-13T02:31:11Z"
 }
