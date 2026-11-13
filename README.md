@@ -22,3 +22,7 @@ Inclui nove paletas do menu superior, seleção de todo o catálogo nos buquês,
 O manifesto identifica esta edição com `version: "1.14.2"` e `release_version: "1.14.2"`. O ZIP contém exatamente 19 arquivos próprios, validados por tamanho e SHA-256. A base compatível continua sendo XUI 1.5.12.
 
 Os arquivos de terceiros mantêm seus termos e direitos.
+
+## Complemento de buquês e edição em massa — 1.14.2
+
+O importador oferece seleção múltipla de buquês e a edição em massa distingue página e resultados filtrados, com filtro por domínio da fonte e páginas de 2.000 ou 5.000 entradas. Os indicadores ONDEMAND e DIRECT usam cores distintas e textos em português brasileiro. A edição permanece 1.14.2 e o arquivo automático mantém exatamente 19 destinos próprios, conferidos por tamanho e SHA-256. Em filmes e séries, os buquês são destinos de reserva, sujeitos às regras nativas de alocação.
