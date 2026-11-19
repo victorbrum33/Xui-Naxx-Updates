@@ -4,9 +4,9 @@
   "version": "1.14.2",
   "release_version": "1.14.2",
   "archive": {
-    "sha256": "2ca81df946850d1eacdea03bce8b86796fc1b58799bf92c846e6d761ad23294a",
-    "size": 170040,
-    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/6833e5be30a6ec54be71d9bab4e89304eaaa85b9/naxx-frontend.zip"
+    "sha256": "7ea18b3f820585a779df29956aee8e1cff068fcdcb5003d9339fd006ac9ff398",
+    "size": 180979,
+    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/7e36bc74d04466008358929298c2f14c1e1f0e7d/naxx-frontend.zip"
   },
   "files": [
     {
@@ -16,13 +16,13 @@
     },
     {
       "path": "admin/assets/css/naxx-overlay.css",
-      "sha256": "b4461456890a42c2a2a3c48dcd29be92d5484ed688d650836fc2b4782183bac8",
-      "size": 58045
+      "sha256": "1334061c24e4715b2401d8fbe3efcd63b7058d541d941c0d0be5c0109fd62408",
+      "size": 61101
     },
     {
       "path": "admin/assets/css/naxx-overlay.light.css",
-      "sha256": "406ae998e8a1ca9757bf03f5828f8df1210891c572a4f43cbb923f78e9a69e3e",
-      "size": 62062
+      "sha256": "8e6bbc0de2b781ae050928de869e38dd54b3bcb7529ebaccca5271d0614d0d9e",
+      "size": 65118
     },
     {
       "path": "admin/assets/css/naxx-update.css",
@@ -61,8 +61,8 @@
     },
     {
       "path": "admin/assets/js/naxx-overlay.js",
-      "sha256": "36201b38d314167bdb8603927b7d1c4d4bb825d29d18a192823a600085ae3a08",
-      "size": 274866
+      "sha256": "daa0219cecb8cbc1088e4786011db9e127912e059db0976a9e5f3bad3e9769c3",
+      "size": 310645
     },
     {
       "path": "admin/assets/js/naxx-update-ui.js",
@@ -105,5 +105,5 @@
       "size": 36457
     }
   ],
-  "published_at": "2026-11-15T18:46:05Z"
+  "published_at": "2026-11-19T19:50:26Z"
 }
