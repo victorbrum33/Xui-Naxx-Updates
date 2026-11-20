@@ -1,12 +1,12 @@
 {
   "schema": 1,
   "name": "Xui Naxx Frontend",
-  "version": "1.14.2",
-  "release_version": "1.14.2",
+  "version": "1.15.0",
+  "release_version": "1.15.0",
   "archive": {
-    "sha256": "7ea18b3f820585a779df29956aee8e1cff068fcdcb5003d9339fd006ac9ff398",
-    "size": 180979,
-    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/7e36bc74d04466008358929298c2f14c1e1f0e7d/naxx-frontend.zip"
+    "sha256": "6fabdcf7453bfd880dbff9700390304199a73108127dc53d8cefc60b85f6480c",
+    "size": 186347,
+    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/f2dd2aa800c56c9f20dd2353826b2b2063e830a1/naxx-frontend.zip"
   },
   "files": [
     {
@@ -16,13 +16,13 @@
     },
     {
       "path": "admin/assets/css/naxx-overlay.css",
-      "sha256": "1334061c24e4715b2401d8fbe3efcd63b7058d541d941c0d0be5c0109fd62408",
-      "size": 61101
+      "sha256": "648d5389e56d64659eb748c03d5db32c1437c9bed3edc91156659fbeb9b3854d",
+      "size": 62394
     },
     {
       "path": "admin/assets/css/naxx-overlay.light.css",
-      "sha256": "8e6bbc0de2b781ae050928de869e38dd54b3bcb7529ebaccca5271d0614d0d9e",
-      "size": 65118
+      "sha256": "8c39f6a96724c1171eef8091de973df6e496ef4e5000dba492e28fc6475524ae",
+      "size": 66411
     },
     {
       "path": "admin/assets/css/naxx-update.css",
@@ -61,13 +61,13 @@
     },
     {
       "path": "admin/assets/js/naxx-overlay.js",
-      "sha256": "daa0219cecb8cbc1088e4786011db9e127912e059db0976a9e5f3bad3e9769c3",
-      "size": 310645
+      "sha256": "96b1ea5cd33808a4a4c4277b3b8b7acf8ca19178b1d8ff5f4f4be9a10275b807",
+      "size": 330029
     },
     {
       "path": "admin/assets/js/naxx-update-ui.js",
-      "sha256": "29c400875bfa911273e23f5d642dbc03f17981aa86cd5473982ad4e1b99a3d00",
-      "size": 13996
+      "sha256": "ca00b499de6eba35ebca5ea2ea901ad56990062973073c10fd3290198b8ab09a",
+      "size": 14031
     },
     {
       "path": "admin/naxx-epg-sync.php",
@@ -96,8 +96,8 @@
     },
     {
       "path": "admin/naxx-update.php",
-      "sha256": "fec25b03dccec3beb4d53d025347e6726ae6e832d522c06d05445e949bef4f0e",
-      "size": 64516
+      "sha256": "3717396c81c2efcd9e440fa9db128dd87ceb0a1c517466b4205b78d583f86871",
+      "size": 64514
     },
     {
       "path": "includes/langs/pt_br.ini",
@@ -105,5 +105,5 @@
       "size": 36457
     }
   ],
-  "published_at": "2026-11-19T19:50:26Z"
+  "published_at": "2026-11-20T01:02:11Z"
 }
