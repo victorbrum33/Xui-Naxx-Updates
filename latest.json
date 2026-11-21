@@ -4,9 +4,9 @@
   "version": "1.15.0",
   "release_version": "1.15.0",
   "archive": {
-    "sha256": "6fabdcf7453bfd880dbff9700390304199a73108127dc53d8cefc60b85f6480c",
-    "size": 186347,
-    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/f2dd2aa800c56c9f20dd2353826b2b2063e830a1/naxx-frontend.zip"
+    "sha256": "83f9899432ce9f7b12ea559805b024c9f96a39d99456c18be4d83b7216acbb7e",
+    "size": 205096,
+    "url": "https://raw.githubusercontent.com/victorbrum33/Xui-Naxx-Updates/139e1c2a6f225f2859bb55c74f9b1f0f2c1f5b9d/naxx-frontend.zip"
   },
   "files": [
     {
@@ -16,13 +16,13 @@
     },
     {
       "path": "admin/assets/css/naxx-overlay.css",
-      "sha256": "648d5389e56d64659eb748c03d5db32c1437c9bed3edc91156659fbeb9b3854d",
-      "size": 62394
+      "sha256": "7e722693fc523b23bf1ab862ba37ca935708cea37a9911ec65ca528dc71b7e04",
+      "size": 66452
     },
     {
       "path": "admin/assets/css/naxx-overlay.light.css",
-      "sha256": "8c39f6a96724c1171eef8091de973df6e496ef4e5000dba492e28fc6475524ae",
-      "size": 66411
+      "sha256": "255d421647309850f802846358ea0990afe589d275829d64ed344fc29c56239e",
+      "size": 70469
     },
     {
       "path": "admin/assets/css/naxx-update.css",
@@ -61,8 +61,8 @@
     },
     {
       "path": "admin/assets/js/naxx-overlay.js",
-      "sha256": "96b1ea5cd33808a4a4c4277b3b8b7acf8ca19178b1d8ff5f4f4be9a10275b807",
-      "size": 330029
+      "sha256": "2ab52741e79116c20615342b2b599c9ed09812d8cb3a462117d43feef423d985",
+      "size": 366518
     },
     {
       "path": "admin/assets/js/naxx-update-ui.js",
@@ -96,8 +96,8 @@
     },
     {
       "path": "admin/naxx-update.php",
-      "sha256": "3717396c81c2efcd9e440fa9db128dd87ceb0a1c517466b4205b78d583f86871",
-      "size": 64514
+      "sha256": "0d20fc3c4755e35a0a942112c4f63260bce19cd030b569b41c69ec7e1284f7a4",
+      "size": 103338
     },
     {
       "path": "includes/langs/pt_br.ini",
@@ -105,5 +105,5 @@
       "size": 36457
     }
   ],
-  "published_at": "2026-11-20T01:02:11Z"
+  "published_at": "2026-11-21T12:05:49Z"
 }
